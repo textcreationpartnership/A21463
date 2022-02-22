@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rex vic [et]c. saltim. Forasmoche as in the tymes of the noble progenytours of the kynge [...].</title>
+            <title>Proclamations. 1514-11-14</title>
+            <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1514</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21463</idno>
+            <idno type="STC">STC 7765</idno>
+            <idno type="STC">ESTC S111310</idno>
+            <idno type="EEBO-CITATION">99846678</idno>
+            <idno type="PROQUEST">99846678</idno>
+            <idno type="VID">11664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 38:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rex vic [et]c. saltim. Forasmoche as in the tymes of the noble progenytours of the kynge [...].</title>
+                  <title>Proclamations. 1514-11-14</title>
+                  <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>R. Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1514]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Proclamation against liveries and retainers.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Imperfect; stained affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bodyguards --  Early works to 1800.</term>
+               <term>Livery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:11664:1"/>
+            <p>
+               <seg rend="decorInit">R</seg>Ex vic<g ref="char:cmbAbbrStroke">̄</g>. &amp;c<g ref="char:cmbAbbrStroke">̄</g>. Saltu<g ref="char:cmbAbbrStroke">̄</g>. Foraſmuche as the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prog<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s of the Kynge our ſoueraygne Lorde / dyuerſe <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> haue ben made and eſtableſſhed for p<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ment of ſuche parſons that gyue or receyue lyuereys or that reteyne any parſone or parſones or be re<g ref="char:EOLhyphen"/>teyned with any parſone or parſones by othe promyſe lyuerey wrytynge token bage or otherwyſe vpon dyuerſe paynes &amp; forfaytures i<g ref="char:cmbAbbrStroke">̄</g> ſuche ſtatutes co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>teyned / That notwithſtandynge dyuerſe and many parſones haue takyn vppon theym ſome to gyue and ſome to receyue lyuereyſe and to receyue / and be recey<g ref="char:EOLhyphen"/>ued contrarye to the fourme of the ſayde Statutes / And lytell or nothynge is or hathe ben done for the ponyſhement of the offenderſe in that behalfe / By reaſon wherof manye Murdures / Ryottes, Routes vnlaufull aſſembleſe mayntenaunces imbrac<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryſe &amp; other great inconuenyences haue enſued and dayly dothe enſue to the diſturbaunce and inquietacyon of the Kynges Subgieties &amp; to the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ette of thexecucion of his lawes / Wherfore the Kynge our moſte <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoueraygne lord by thaduyſe of his counſayll wylleth ſtraytlye chargeth &amp; commaundeth all his true &amp; faythfull ſubgiettes &amp; liegemen of what degree ſtate or condicion ſoeuer he or they be / that they &amp; euery of theym fromhenſfourthe obſerue kepe &amp; perfourme all &amp; ſynguler ſtatutes &amp; ordynaunces &amp; euery parte of the ſame aforetyme had or made ayenſt ſuche as make vnlaufull reteynoures / and ſuche as ſo be reteyned or that gyue or receyue lyuerey contrarye to the fourme &amp; effecte of the ſame Sta<g ref="char:EOLhyphen"/>tutes &amp; ordynaunces &amp; that no parſone ne parſones fromhenſfourthe do reteyne ne be receyued contrary to the ſayde eſtatutes / ne y<hi rend="sup">t</hi> any parſone or parſones here<g ref="char:EOLhyphen"/>tofore in any wyſe reteyned by the Kynges letters myſſyues placardes patentes or oder wyſe fromhenſfourthe vſe or were any lyuerey Bage tokyn or oderwyſe call hym ſelfe ſeruaunt to any ſuche parſone to whome he or they haue ben ſo reteyned / vpon ſuche paynes &amp; forfaytures as ben conteyned in the ſame ſtatutes any commaundement letters myſſyues / placardes / commyſſyones / or letters / patentes vnder the Kynges great Seale to the contrarye made in any wyſe notwithſtan<g ref="char:EOLunhyphen"/>dynge All whyche commaundementes / letters / myſſyues / placardes / commyſſyones &amp; lc<g ref="char:cmbAbbrStroke">̄</g>s patentes of what date or nature ſo euer they be or to whome / or for what cauſe ſoeuer they were graunted / the kynges hygnes vtterly hath reuoked &amp; by this proclamacyon clerely declareth theym nowe &amp; fromheſfourthe to be voyde &amp; of no force ſtreyngthe ne effecte / And alſo the Kynges hyghnes callynge to his remembraunce howe that many notable actes &amp; Statutes haue bene made &amp; eſta<g ref="char:EOLhyphen"/>blyſſhed in the days of his noble progenitoures Kynges of Englande for reformacyon &amp; punyſhement of vacabundesidle &amp; ſuſpecte ꝑſones &amp; auoydynge of vnlau<g ref="char:EOLunhyphen"/>full games &amp; correccion of vitellers vpon greuous peynes conteyned in theſame actes &amp; Statutes And that notwithſtondynge litle or nothynge hath ben done within Cytyes Boroughes Townes &amp; oder places of this his Realme for punyſhement of the ſayd vacaboundes idle &amp; ſuſſpecte parſones &amp; for the auoydynge of vnlaufull games &amp; correccyon of vitellers by his Iuſtyces of peaſe / Mayres / Shereffes &amp; oder his officers therunto auctoryſed by reaſon wherof dyuerſe horry<g ref="char:EOLhyphen"/>ble murdres &amp; roboryes hathe ben alſo commytted &amp; done &amp; alſo decayes of Cities / Townes / &amp; Borughes lyke to enſue to the great deſolacion &amp; rayns of this his Realme. &amp; alſo for lacke of correccion of by tellers the Kynges ſubgiettes hath ſuſteyned great damages &amp; loſſes whiche premyiſes to auoyde his grace aboue all erthely thynges te<g ref="char:cmbAbbrStroke">̄</g>derly myndeth &amp; to reduſe y<hi rend="sup">e</hi> ſame his Realme in his dayes into his au<g ref="char:cmbAbbrStroke">̄</g>cyent honoure welthe &amp; proſperyte / His hyghnes therfore wyllethe ſtray<g ref="char:EOLunhyphen"/>ghtly chargeth &amp; co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>deth all &amp; ſynguler his Iuſtices of peaſe / Mayres Sherefz / Baylyffes &amp; oder hede Officers Rulers of Cou<g ref="char:cmbAbbrStroke">̄</g>tryes / Cities &amp; Townys with in this his ſayde Realme that they &amp; euerye of them foraſmoche as to theym &amp; euerye of theym concernyth doo executes cauſe to be executed aſwell the ſtatute of <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ncheſter the ſtatute for punyſſhement of vacaboundes the ſtatute made for the auoydynge of vnlaufull games &amp; alſo the ſtatute made for correction of vytel<g ref="char:EOLhyphen"/>lers as the ſayde eſtatutes made ayenſte theym that reteyne or be reteyned vpon ſuche paynes as be conteyned in the ſayde ſtatutes &amp; euerye of theym to be exe<g ref="char:EOLhyphen"/>cuted &amp; leuyed vpon the ſayd offenders Mayres / Shrefes and oder hed Offycers aforeſayd in caſe the Kynges grace fynde any defaulte offence remyſe or necli<g ref="char:EOLhyphen"/>gence in theym or any of theym in obſeruynge &amp; execution of the ſayde ſtatutes / and as they wyll anſwere to the Kynge at theyr forther ꝑilles and to then <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e that no parſon ſhall haue cauſe to excuſe theym by ignoraunce or for lacke of knowlege of the ſayde ſtatutes The Kynges hygnes hath cauſed the ſayde Statutes to be proclaymed thorough oute all his Realme of Englonde and alſo to be inprynted &amp; remayne in euery Citye / Shyre / Towne / &amp; borough that euery parſon may <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght &amp; vnderſtandynge of the ſame eſtatutes for theyr ſuertye &amp; diſcharge in that behalfe / And that no parſone or parſones of what eſtate degre or cond<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on he be preſume or truſte vppon any pardon Releaſſe or diſcharge to be obteyned of our ſoueraygne Lorde of his or of theyr offences from henſforthe con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the tenure of the ſayde eſtatutes and euery of theym.</p>
+         </div>
+         <div type="statutes">
+            <head>The ſtatutes of wyncheſter.</head>
+            <p>Hyrſte the ſtatute of wyncheſtre / made the .xiii. yere of the reygne of the kynges noble progenytours kynge Edwarde the firſte as enſueth. ¶ Foraſmuche as dayly roboryes murdres and bre<g ref="char:cmbAbbrStroke">̄</g>nynges be more often and comenly done within this our realme thenne euer was heretofore / and that felons haue not ben therfore atteynted / by the othes of the Iurours / whyche rather wylfully ſuffre Felonyes to be doon to ſtraunge parſones / and to paſſe withoute punyſſhement of endittement of the ſayde Myſdoers / wherof greate parte of the ſayde Myſdoers be of the people of the ſame countre / or at the leſte if the ſayde Myſdoers be of an<g ref="char:EOLhyphen"/>other Countre / the Receytours be of the neyghbours of the ſame Countre / and the ſayd Iurours doo not regarde nor fe<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e theyr othes / where the ſayde felonyes be doon. ¶ And as to the reſtytucyon of them that were dammaged and hurtyd byfore tyme / noo payne was purueyed for the concillement or Myſbehauoure of the ſayd Countre or Iurours where ſuche offences were doon.</p>
+            <p>¶ The kynge our Soueraygne lorde for to esſchewe and abate the power of felons hath eſtablyſſhed a payne in this caſe / Soo that for fere of the ſayde payne <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther than for fere and drede of theyr othes / and that no parſones from henſforthe offendynge ſhall not eſcape / nor no felouyes be conceyled.</p>
+            <p>¶ The kynge our ſayd Soueraygne Lord co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>deth that a Erye and proclamacion be ſolempnely made in all Shyres Hu<g ref="char:cmbAbbrStroke">̄</g>dredꝭ Markettes Fayres &amp; all other places where greate aſſemble of people ſhalbe / So that by Ingnoraunce no parſone ſhall excuſe hym / that euery Counte from henſforth be kept ſo that <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> after any Roboryes and felonyes be doon freſſhe ſuyte be made from Towne to towne and countre to Countre.</p>
+            <p>¶ And alſo if nede be that enqueſtes be made in Towne or Townes by hym or theym that is Soueraygne of the Towne or townes / And after in hu<g ref="char:cmbAbbrStroke">̄</g>dredꝭ and in Fraunchyſes And in the Countie or Counties / and ſomtymes in two / thre / or foure Shyres in caſe whan felonyes be doon in marches of the ſame Shyre or Shy<g ref="char:EOLhyphen"/>res / ſoo that the ſayde myſdoers may be atteynted accordynge to theyr demerites / and if the Countre or Countres do<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not take the body or bodyes of ſuche myſdo<g ref="char:EOLunhyphen"/>wers / Theyr punyſſhement and payne ſhalbe ſuche / That is to ſaye euery of the people in the Countre abydynge there ſhall anſwere at the robberyes and dama<g ref="char:EOLhyphen"/>ges doon there / So that the hundrede or hundredes where as the Robberye or Robberyes ſhalbe doon within the Fraunchyſe or Fraunchyſes within the ſayd hu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>drede or hundredes ſhall anſwere of the ſayde Robberye or Robberyes And if the Robberye be doon in the endes or the deuydynge of two hundreds / then ſhall <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>the the hundredes with the Fraunchyſe within theym anſwere / for the ſayde myſdedes and offenſes doon And the Countre or Countres ſhall haue no longer <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e / after the Robberye or Robberyes Felony or Felonyes doon but .xl. dayes within whiche tyme the ſayde Countre or Countrees ſhal make agrement or <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pence of the ſayde Robberye or Robberyes and myſdedes / or elles anſwere the bodye or bodyes of ſuche myſdoers.</p>
+            <p>¶ And furthermore the kynges hyghnes / for the farther ſewertye of his ſubiectis / chargeth &amp; co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dth that all the gates in euery greate walled Towne or Tow<g ref="char:EOLhyphen"/>nes be ſhutte at the ſonne ſettynge / and not open byfore ſonne ryſynge.</p>
+            <p>¶ And that no parſone ſhalbe lodged nor harbergyd in y<hi rend="sup">e</hi> Subbardes nor in the foreyn of any ſuche To<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hut by day ty<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> nor yet by daye tyme but if the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wyll anſwere for hym.</p>
+            <p>And the Bayllyfz of Towne or Townes euery wyke or euery. xv. dayes ſhall make enquerye of the people ha<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bergyd and, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Towne or Townes / and if they fynde any man that ha<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bergeth or doo loge any parſons ſuſpecte or do ayenſt y<hi rend="sup">e</hi> kynges <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> y<hi rend="sup">e</hi> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſayde Bayllyffz ſhal doo theym ryght and punyſſhe theym accordynge to the lawe.</p>
+            <p>¶ And from henſforthe it is ordeyned and co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>ded by the kynges ſayde hyghnes / <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at watche be made as of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is to ſaye / from the daye of the Aſſencyon vnto the feeſt of Seynt mychel the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>gells &amp; that in euery Cytye in the<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by. xii. men / &amp; euery vplanded Towne / by .vi. men or .<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iii. after the nomb<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the people there dwellynge / &amp; they ſhall <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vnto ſonne ryſynge / and if any ſtraunger paſſe by theym / they ſha<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or theym and kepe hym or theym tyll the m<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hym or the<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or they <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be founde in hym or the<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he or they <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>whiche ſhall Re<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> delyuerd / and if ſuche ſuſpecyous <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be made <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be taken / and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sher<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>f accordynge <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> takynge and deteynynge <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ged.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
